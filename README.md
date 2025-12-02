@@ -2,7 +2,7 @@
 
 ## 😎 Indroduction
 ```
-Betfin poker game is a online poker platform that uses cryptocurrencies like Bitcoin, Ethereum, or other digital assets for betting and transactions. 
+WhalesVerse is a online poker platform that uses cryptocurrencies like Bitcoin, Ethereum, or other digital assets for betting and transactions. 
 These platforms often offer features such as:
 
     • Decentralized and transparent gameplay: Blockchain technology ensures fairness and transparency.
@@ -51,10 +51,10 @@ The architecture implements a modular, service-oriented approach with:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AnimocaTechHub/betfin_ver_1.git
+git clone https://github.com/WHALESVERSEHub/whalesverse_ver_1.git
 ```
 ```bash
-cd betfin_ver_1
+cd whalesverse_ver_1
 ```
 
 ### 2. Install Dependencies
@@ -72,10 +72,11 @@ npm start
 http://localhost:3000
 ```
 
-## Tech Stack
-- **Frontend** – React / Next.js / TailwindCSS
-- **Blockchain** – Solidity / Hardhat / Ethers.js
-- **Backend** – Node.js / TypeScript / PostgreSQL / Redis
-- **Games** – Phaser.js / Unity / WebGL
-- **Sports Data** – Integrated via 3rd-party APIs
-- **Enterprise Layer** – Modex BCDB middleware
+### Tech Stack
+```
+    • Frontend: – React / Next.js / TailwindCSS
+    • Blockchain: – Solidity / Hardhat / Ethers.js
+    • Backend: – Node.js / TypeScript / PostgreSQL / Redis
+    • Games: – Phaser.js / Unity / WebGL
+    • Sports Data: – Integrated via 3rd-party APIs
+```
