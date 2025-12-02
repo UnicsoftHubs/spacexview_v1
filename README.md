@@ -1,4 +1,4 @@
-# Bet_Poker MVP
+# WhalesVerse MVP
 
 ## 😎 Indroduction
 ```
