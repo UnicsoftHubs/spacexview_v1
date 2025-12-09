@@ -1,8 +1,8 @@
-# WhalesVerse MVP
+# SpaceXView MetaVerse MVP
 
 ## 😎 Indroduction
 ```
-WhalesVerse is a online poker platform that uses cryptocurrencies like Bitcoin, Ethereum, or other digital assets for betting and transactions. 
+SpaceXView MetaVerse is a online poker platform that uses cryptocurrencies like Bitcoin, Ethereum, or other digital assets for betting and transactions. 
 These platforms often offer features such as:
 
     • Decentralized and transparent gameplay: Blockchain technology ensures fairness and transparency.
@@ -51,10 +51,10 @@ The architecture implements a modular, service-oriented approach with:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/WHALESVERSEHub/whalesverse_ver_1.git
+git clone https://github.com/SpaceXView MetaVerseHub/SpaceXView MetaVerse_ver_1.git
 ```
 ```bash
-cd whalesverse_ver_1
+cd SpaceXView MetaVerse_ver_1
 ```
 
 ### 2. Install Dependencies
